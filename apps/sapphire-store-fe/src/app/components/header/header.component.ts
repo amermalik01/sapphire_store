@@ -1,6 +1,6 @@
 import { Component,inject } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import { ThemesService } from '../services/themes.service';
+import { ThemesService } from '../../services/themes.service';
 
 @Component({
   selector: 'app-header',
